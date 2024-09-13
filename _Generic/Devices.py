@@ -10,9 +10,9 @@ from past.utils import old_div
 from functools import partial
 from _Framework.Util import group
 RCK_BANK1 = ('Macro 1', 'Macro 2', 'Macro 3', 'Macro 4', 'Macro 5', 'Macro 6', 'Macro 7',
-             'Macro 8')
-RCK_BANK2 = ('Macro 9', 'Macro 10', 'Macro 11', 'Macro 12', 'Macro 13', 'Macro 14',
+             'Macro 8', 'Macro 9', 'Macro 10', 'Macro 11', 'Macro 12', 'Macro 13', 'Macro 14',
              'Macro 15', 'Macro 16')
+RCK_BANK2 = ('Macro 17')
 RCK_BANKS = (
  RCK_BANK1, RCK_BANK2)
 RCK_BOBS = (RCK_BANK1,)
